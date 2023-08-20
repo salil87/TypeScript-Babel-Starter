@@ -10,4 +10,5 @@ export let y = { ...{ some: "value" } };
 
 const f1 = ()=>{
     let c = x.setX(3);
+    let d = 'adsf'
 }
