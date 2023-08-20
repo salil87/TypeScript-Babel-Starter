@@ -6,3 +6,8 @@ export class C {
 
 export let x = new C();
 export let y = { ...{ some: "value" } };
+
+
+const f1 = ()=>{
+    let c = x.setX(3)
+}
