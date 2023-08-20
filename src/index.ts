@@ -10,6 +10,6 @@ export let y = { ...{ some: "value" } };
 
 const f1 = ()=>{
     let c = x.setX(3);
-    let d = 'amend 1234'
+    let d = 'amend 34234234'
     let g = 12;
 }
